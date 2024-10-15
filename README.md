@@ -1,1 +1,3 @@
-# Patrones_de_dise-o
+# Patrones_de_diseño
+
+## Practico 3 - Comando
